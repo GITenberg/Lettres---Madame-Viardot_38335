@@ -1,0 +1,47 @@
+_repo: Lettres---Madame-Viardot_38335
+_version: 0.1.0
+contributor:
+  annotator:
+    agent_name: Halpérine-Kaminsky, E. (Ely)
+    aliases:
+    - Halperine-Kaminsky, E. (Ely)
+    - Kaminsky, Ely Halpérine
+    - Halpérine-Kaminsky, Ely
+    - Kaminsky, E. Halpérine
+    birthdate: 1858
+    deathdate: 1936
+    gutenberg_agent_id: '38809'
+    url: http://www.gutenberg.org/2009/agents/38809
+    wikipedia: http://fr.wikipedia.org/wiki/Ely_Halp%C3%A9rine-Kaminsky
+covers:
+- cover_type: archival
+  image_path: 38335-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Turgenev, Ivan Sergeevich
+    aliases:
+    - Toergenev, Ivan
+    - Тургенев, Иван Сергеевич
+    - Turgénieff, Iván
+    - Tourgueneff, Ivan
+    birthdate: 1818
+    deathdate: 1883
+    gutenberg_agent_id: '922'
+    url: http://www.gutenberg.org/2009/agents/922
+    wikipedia: http://en.wikipedia.org/wiki/Ivan_Turgenev
+description: ''
+gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
+gutenberg_issued: '2011-12-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38335'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Turgenev, Ivan Sergeevich, 1818-1883 -- Correspondence'
+- !lcc 'PG'
+- !lcsh 'Viardot-García, Pauline, 1821-1910'
+title: Lettres à Madame Viardot
+url: http://www.gutenberg.org/ebooks/38335
