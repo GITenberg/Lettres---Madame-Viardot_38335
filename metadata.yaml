@@ -30,6 +30,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/922
     wikipedia: http://en.wikipedia.org/wiki/Ivan_Turgenev
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38335#Lettres---Madame-Viardot
 gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
 gutenberg_issued: '2011-12-18'
 gutenberg_type: Text
